@@ -12,10 +12,6 @@
 - Helps you to donate
 - Make request if not avaiable 
 
-## How it works 👨‍💻
-- Go to [google drive]() file
-- Download the apk file
-- Now run the app 📱
 
 ## Installation 
 To make ths project works, you need to have flutter SDK installed. [***Install Flutter***](https://flutter.dev/docs/get-started/install)
@@ -37,8 +33,7 @@ To make ths project works, you need to have flutter SDK installed. [***Install F
 - Trustworthy
 - Your helping friend
 
-🚶
-[Brief walkthrough our project]()
+
 
 ### Partners
 - cupertino_icons: ^1.0.2
